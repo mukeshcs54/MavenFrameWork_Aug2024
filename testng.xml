@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Testingbaba">
+  <test  name="Login_TestScript" enabled="false">
+    <classes>
+     <class name="TestingTest_Script.Login_TestScript"/>
+      </classes>
+    </test> <!-- Test -->
+    
+     <test  name="Testbox_TestScript" enabled="false">
+     <classes>
+     <class name="TestingTest_Script.Testbox_TestScript"/>
+      </classes>
+      </test> <!-- Test -->
+      
+      <test  name="CheckBox_Test" enabled="false">
+     <classes>
+      <class name="TestingTest_Script.CheckBox_Test"/>
+       </classes>
+       </test> <!-- Test -->
+        <test  name="RadioButton_TestScript" enabled="false">
+     <classes>
+      <class name="TestingTest_Script.RadioButton_TestScript"/>
+      </classes>
+       </test> <!-- Test -->
+       
+      <test  name="Button_TestScript" enabled="false">
+     <classes>
+      <class name="TestingTest_Script.Button_TestScript"/>
+      </classes>
+       </test> <!-- Test -->
+      
+      <test  name="WebTable_TestScript" enabled="false">
+     <classes>
+      <class name="TestingTest_Script.WebTable_TestScript"/>
+    </classes>
+  </test> <!-- Test -->
+  
+   <test  name="Link_TestScript" enabled="True">
+     <classes>
+      <class name="TestingTest_Script.Link_TestScript"/>
+    </classes>
+      </test> <!-- Test -->
+</suite> <!-- Suite -->
